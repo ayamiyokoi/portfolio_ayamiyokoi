@@ -173,6 +173,9 @@ li {
   margin-bottom: 40px;
   color: #333;
 }
+.works-item img:hover {
+  box-shadow: 4px 4px 8px gray;
+}
 
 .works-item:hover {
   opacity: 0.9;
