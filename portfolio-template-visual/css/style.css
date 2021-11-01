@@ -157,11 +157,13 @@ li {
   max-width: 500px;
   margin: 0 auto;
 }
-.prof-image{
+.prof-image {
+  width: 180px;
+  height: 180px;
+  margin: 10px auto 20px;
+}
+.prof-image img {
   border-radius: 50%;
-    width:  180px;
-    height: 180px;
-    margin: auto;
 }
 
 /*--------------------------------
